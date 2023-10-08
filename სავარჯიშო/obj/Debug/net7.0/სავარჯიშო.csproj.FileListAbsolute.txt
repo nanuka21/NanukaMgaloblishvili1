@@ -1,0 +1,15 @@
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/bin/Debug/net7.0/სავარჯიშო
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/bin/Debug/net7.0/სავარჯიშო.deps.json
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/bin/Debug/net7.0/სავარჯიშო.runtimeconfig.json
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/bin/Debug/net7.0/სავარჯიშო.dll
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/bin/Debug/net7.0/სავარჯიშო.pdb
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.csproj.AssemblyReference.cache
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.AssemblyInfoInputs.cache
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.AssemblyInfo.cs
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.csproj.CoreCompileInputs.cache
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.dll
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/refint/სავარჯიშო.dll
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.pdb
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/სავარჯიშო.genruntimeconfig.cache
+/Users/nanuka/Projects/სავარჯიშო/სავარჯიშო/obj/Debug/net7.0/ref/სავარჯიშო.dll
