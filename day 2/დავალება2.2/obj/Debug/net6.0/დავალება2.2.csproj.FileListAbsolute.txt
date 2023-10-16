@@ -1,0 +1,15 @@
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.csproj.AssemblyReference.cache
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.AssemblyInfoInputs.cache
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.AssemblyInfo.cs
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.csproj.CoreCompileInputs.cache
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/bin/Debug/net6.0/დავალება2.2
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/bin/Debug/net6.0/დავალება2.2.deps.json
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/bin/Debug/net6.0/დავალება2.2.runtimeconfig.json
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/bin/Debug/net6.0/დავალება2.2.dll
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/bin/Debug/net6.0/დავალება2.2.pdb
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.dll
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/refint/დავალება2.2.dll
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.pdb
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/დავალება2.2.genruntimeconfig.cache
+/Users/nanuka/Projects/დავალება2.2/დავალება2.2/obj/Debug/net6.0/ref/დავალება2.2.dll
